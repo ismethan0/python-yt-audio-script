@@ -14,6 +14,7 @@ The resulting `.mp3` file is saved in the same directory as the script.
 Install dependencies:
 ```bash
 pip install yt-dlp
+```
 Place ffmpeg.exe in the same folder as this script (Windows users).
 You can get the latest static build from:
 👉 https://www.gyan.dev/ffmpeg/builds/
